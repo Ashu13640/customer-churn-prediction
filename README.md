@@ -8,7 +8,9 @@ The project uses **XGBoost** for classification and **Streamlit** for the intera
 
 ## 🚀 Live Demo
 
-Coming soon...
+
+
+👉 **[Launch Customer Churn Prediction App](https://customer-churn-prediction-xxxxx.streamlit.app/)**
 
 ---
 
